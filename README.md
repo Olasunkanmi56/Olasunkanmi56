@@ -26,9 +26,7 @@ class Skills extends FrontendDeveloper {
 
 ### Get in Touch
 - 📧 Email: [Hammedolasunkanmi001@gmail.com]
-- 🌐 Portfolio: [Your Portfolio Website]
-- 💼 LinkedIn: [www.linkedin.com/in/hammed-olasunkanmi-343169206](Your LinkedIn Profile Link)
-- 🐦 Twitter: [@YourTwitterHandle](Your Twitter Profile Link)
+- 💼 LinkedIn: [www.linkedin.com/in/hammed-olasunkanmi-343169206]
 
 Let's collaborate and build amazing things together! 😄
 
