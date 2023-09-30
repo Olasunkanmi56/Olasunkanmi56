@@ -1,6 +1,20 @@
-- 👋 Hi, I’m Hammed Olasunkanmi
-- 👀 I’m a Frontend developer
-- 🌱 I'm adept in front-end development and currently learning back-end development.
-- 💞️ I’m looking to collaborate on projects.
-- 📫 How to reach me Linkedin-https://www.linkedin.com/in/hammed-olasunkanmi-343169206/ Whatsapp- +2348116093676
-- <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<p align="center">
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+</p>
+
+```js
+import FrontendDeveloper from 'HammedOlasunkanmi';
+
+class Bio extends FrontendDeveloper {
+  name     = 'Hammed Olasunkanmi';
+  title    = 'Frontend Developer';
+  location = 'Lagos, Nigeria';
+}
+
+class Skills extends FrontendDeveloper {
+  languages  = ['JavaScript', 'Python'];
+  frameworks = ['React', 'NextJs', 'Angular', 'Vuejs', 'Typescript', 'Redux', 'Nodejs', 'ExpressJs', 'React Native', 'GraphQL'];
+  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
+}
+```
+
